@@ -8,8 +8,38 @@
     <script>
       UnityLoader.instantiate("unityContainer", "Build/Version 0.5 WEBGL.json");
     </script>
+	<style>
+	    h1 {
+        font-family: courier new;
+        text-align: center;
+        color:#48D1CC;
+    }
+    h2 {
+        font-family: courier new;
+        text-align: center;
+        color:#48D1CC;
+    }
+    h3 {
+        font-family: courier new;
+        color:#48D1CC;
+    }
+    p {
+        font-family: courier new;
+        font-size: 12px;
+        color:#48D1CC
+    }
+	</style>
   </head>
-  <body>
-    <div id="unityContainer" style="width: 960px; height: 600px; margin: auto"></div>
+  <body style="background-color: #003366;">
+     <div class="title" id="titlecontent" style="border-style: solid; border-color: white; border-width: 10px; border-radius: 5px; background-color: white;">
+      <center>
+        <h1>HitchBug</h1>
+		<h2>By Vincent Jenei</h2>
+		<h5>Special Thanks to Zachary Frank for making the queen bee sprites and many more! </h5>
+      </center>
+    </div>
+	<center>
+		<div id="unityContainer" style="width: 960px; height: 600px; margin: auto; border-color: black; border-width: 20px; border-style: solid; border-radius: 20px;"></div>
+	</center>
   </body>
 </html>
