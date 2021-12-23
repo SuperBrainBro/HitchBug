@@ -8,4 +8,4 @@ You are - intentionally - a bug. Your wings are broken, and only the queen can r
 
 * Weird but intentional bugs.
 
-* And EXTREMELY GOOD MUSIC. --- Looking back at it, the music wasnt that good. I was just proud of myself that I produced it all on my own in BeatBox.
+* And EXTREMELY GOOD MUSIC. --- Looking back at it, the music wasn't that good. I was just proud of myself that I produced it all on my own in BeatBox.
